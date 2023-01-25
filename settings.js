@@ -9,11 +9,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6285609233482','6285609233482'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
-global.Rowner = '6285609233482' //Owner Utama
-global.ownerName = 'Nzrl Afndi' //Ganti Jadi Namamu
+global.ownerNumber = ['6283894145941','6283894145941'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.Rowner = '6283894145941' //Owner Utama
+global.ownerName = 'FikiTzy' //Ganti Jadi Namamu
 global.packname = 'Subscribe YT' //Ganti Jadi Nama Botmu
-global.author = 'NZRLAFNDI' //Ganti Jadi Namamu
+global.author = 'FikiTzy' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
 global.webme = 'https://linktr.ee/NzrlAfndi' //Ganti Jadi Bebas Web Sosmed Mu
@@ -22,7 +22,7 @@ global.sosmed = 'https://www.instagram.com/_nzrlafndi' //Ganti Jadi Web Sosmed M
 //====> SARAN GAUSAH DIGANTI SIH DAH PAS SEMUA
 global.limitAwal = {
  prem: 'Unlimited',
- free: 70
+ free: 5
 }
 global.multiplier = 69 // Semakin Tinggi Nilai nya Semakin Sulit Naik Level
 global.limitEnd = 'Limit Kamu Telah Habis Silahkan Buy Di Shop Atau Tunggu Sampai Limit Reset'
@@ -30,11 +30,12 @@ global.fiturOff = '❎ Fitur Tidak Diaktifkan'
 global.fiturError = 'Fitur Sedang Error ❎'
 
 //===> BOT SETTINGS
-global.autobackup = true //Ganti Ke false Kalau Gamau Di Kirimin File Setiap Hari
+global.autobackup = false //Ganti Ke false Kalau Gamau Di Kirimin File Setiap Hari
 global.autoread = true //Ganti ke false kalau gamau smua chat di read sama bot
 global.autotyping = true //Ganti ke false kalau gamau auto mengetik kalau ada chat masuk ke wa bot
 global.available = false //Ganti ke true kalau pengen bot nya keliatan online terus
-global.autolevelup = true //Ganti ke false klo gamau ada peningkatan exp user mu
+global.autolevelup = false
+//Ganti ke false klo gamau ada peningkatan exp user mu
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU 
 global.mess = {
